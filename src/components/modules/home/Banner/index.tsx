@@ -10,7 +10,7 @@ function Banner() {
     useDotButton();
 
   return (
-    <div className="w-full relative">
+    <div className="w-full relative overflow-hidden">
       <div
         className="flex transition-transform duration-300 "
         style={{ transform: translateX }}
