@@ -1,0 +1,35 @@
+{
+  "home": "Home",
+  "items1": "Items1",
+  "items2": "Items2",
+  "items3": "Items3",
+  "items4": "Items4",
+  "sign-up": "Sign Up",
+  "log-in": "Log In",
+
+  "footers": {
+    "about-us": "About Us",
+    "careers": "Careers",
+    "company-details": "Company Details",
+    "terms-and-conditions": "Terms and Conditions",
+    "help-center": "Help Center",
+    "privacy-policy": "Privacy Policy",
+    "affiliate": "Affiliate",
+    "products": "Products",
+    "nft-marketplace": "NFT Marketplace",
+    "slingshot": "Slingshot",
+    "swaps": "Swaps",
+    "nft-launchpad": "NFT Launchpad",
+    "runes-platform": "Runes Platform",
+    "creator-dashboard": "Creator Dashboard",
+    "resources": "Resources",
+    "support": "Support",
+    "api": "API",
+    "features-requests": "Features Requests",
+    "trust-and-safety": "Trust and Safety",
+    "sitemap": "Sitemap",
+    "contact-us": "Contact Us",
+    "support-tech": "support@tech.email",
+    "affiliate-tech": "affiliate@tech.com"
+  }
+}

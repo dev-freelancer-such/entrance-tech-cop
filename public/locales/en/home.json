@@ -1,0 +1,17 @@
+{
+  "options": {
+    "free-to-earn": "Free to earn",
+    "ranking": "Ranking",
+    "video-nft": "Video NFT",
+    "how-to-buy": "How to buy",
+    "new-nfts": "New NFTS",
+    "road-maps": "RoadMaps"
+  },
+
+  "new-nft-collections": {
+    "new-nft-collections": "New NFT Collections",
+    "nft-drops-calendar": "NFT Drops Calendar",
+    "hot-nft": "Hot NFT",
+    "promotion": "promotion"
+  }
+}
